@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/simple-line-icons/fonts" />
+      <path value="$PROJECT_DIR$/vendor/simple-line-icons/less" />
+      <path value="$PROJECT_DIR$/vendor/simple-line-icons/scss" />
+      <path value="$PROJECT_DIR$/vendor/circle-flip-slideshow/js" />
+      <path value="$PROJECT_DIR$/vendor/circle-flip-slideshow/css" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/php" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/assets" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/js" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/css" />
+      <path value="$PROJECT_DIR$/vendor/bourbon/css3" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/fonts" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/css" />
+      <path value="$PROJECT_DIR$/vendor/owl.carousel/assets" />
+      <path value="$PROJECT_DIR$/vendor/simple-line-icons/css" />
+      <path value="$PROJECT_DIR$/vendor/rs-plugin/addon-visual-editor" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/less" />
+      <path value="$PROJECT_DIR$/vendor/bourbon/functions" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/scss" />
+      <path value="$PROJECT_DIR$/vendor/bourbon/helpers" />
+      <path value="$PROJECT_DIR$/vendor/bourbon/addons" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/font-awesome/fonts" />
+      <path value="$PROJECT_DIR$/vendor/bourbon/settings" />
+      <path value="$PROJECT_DIR$/vendor/nivo-slider/dark" />
+      <path value="$PROJECT_DIR$/vendor/nivo-slider/light" />
+      <path value="$PROJECT_DIR$/vendor/nivo-slider/default" />
+      <path value="$PROJECT_DIR$/vendor/nivo-slider/bar" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap-datepicker/js" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap-datepicker/locales" />
+      <path value="$PROJECT_DIR$/vendor/popper/umd" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap-datepicker/css" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/scss" />
+      <path value="$PROJECT_DIR$/vendor/popper/esm" />
+    </include_path>
+  </component>
+</project>

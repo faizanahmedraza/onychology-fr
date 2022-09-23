@@ -1,0 +1,140 @@
+/* Add here all your CSS customizations */
+
+
+/*header sticky -- color de base dans l html*/
+
+@media (max-width: 991px) {
+	#header.custom-header-transparent-style-1 .header-nav-main nav > ul > li > a.active {
+		background: #2d3c46 !important;
+	}
+}
+
+
+
+/*nav color*/
+
+#header.custom-header-transparent-style-1 .header-nav-main nav > ul > li > a:hover{
+	color:#d13b41 !important;
+}
+
+#header.header-transparent .header-nav-main nav > ul > li > a.active{
+	color:#d13b41 !important;
+}
+
+
+
+/*banner event*/
+
+#bannerImage{
+	margin-top: 75px;
+	border-bottom:3px solid #3d4b55;
+}
+
+/*section colors*/
+
+#intro {
+	background-color: #eff3f5;
+}
+
+#intro .section.section-center {
+	background-color: #eff3f5;
+	margin: 0 !important;
+	border-top: none;
+}
+
+
+#inscriptionRappel {
+	background-color: #cc3335;
+}
+
+#inscriptionRappel .section.section-center {
+	background-color: #cc3335;
+	margin: 0 !important;
+	border-top: none;
+}
+
+#speakers {
+	background-color: #eff3f5;
+}
+
+#speakers .section.section-center {
+	background-color: #eff3f5;
+	margin: 0 !important;
+	border-top: none;
+}
+
+.custom-speaker-card .speaker-social-event {
+	border-color: #a24270;
+}
+.custom-speaker-card .speaker-social-event .speaker-social {
+	background-color: #a24270;
+}
+
+.hoverImage{
+	border:1px solid #cecece;
+}
+
+.hoverImage:hover{
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.8);
+}
+
+
+
+/*sepakers img*/
+
+
+
+.speakersImgStyle{
+	/*padding:20%;*/
+}
+
+
+/*inscription*/
+
+
+.inuptInscription{
+	/* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.tarifsStyle{
+	padding:20px 0; 
+	border:1px solid #cecece;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

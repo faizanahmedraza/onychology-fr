@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap-datepicker/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap-datepicker/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap-datepicker/locales" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/scss" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bourbon/addons" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bourbon/css3" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bourbon/functions" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bourbon/helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bourbon/settings" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/circle-flip-slideshow/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/circle-flip-slideshow/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/font-awesome/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/font-awesome/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/font-awesome/less" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/font-awesome/scss" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nivo-slider/bar" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nivo-slider/dark" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nivo-slider/default" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nivo-slider/light" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/owl.carousel/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/popper/esm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/popper/umd" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/addon-visual-editor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/rs-plugin/php" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/simple-line-icons/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/simple-line-icons/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/simple-line-icons/less" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/simple-line-icons/scss" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
